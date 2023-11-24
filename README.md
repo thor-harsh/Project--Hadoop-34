@@ -13,7 +13,7 @@ MapReduce is a programming paradigm that enables massive scalability across hund
 A MapReduce program is composed of a map procedure, which performs filtering and sorting, and a reduce method, which performs a summary operation.
 
 
-**Important Note: Go through the customer-orders.csv file before jumping to the code.**
+**Important Note: Go through the Book.txt file before jumping to the code.**
 
 
 </table>
