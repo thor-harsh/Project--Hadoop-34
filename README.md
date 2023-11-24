@@ -2,7 +2,7 @@
 
 <table>
   
-**In this project We will use MapReduce with Python to do an amazing stuff.Here We will calculate total count of each words in Book.txt file. Here will use combiners in addition to mapper and reducer to do some reducing job in mapper node itself before giving the jobs to reducer. **.<br></br>
+**In this project We will use MapReduce with Python to do an amazing stuff.Here We will calculate total count of each words in Book.txt file. Here will use combiners in addition to mapper and reducer to do some reducing job in mapper node itself before giving the jobs to reducer. **.<br>
 
 Both Mapper and Reducer will have the same output and input. It just decreases the network traffic in our cluster.
 
