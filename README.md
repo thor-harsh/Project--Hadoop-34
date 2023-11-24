@@ -1,9 +1,10 @@
 # Project--Hadoop-34
-# Project--Hadoop-33
+
 <table>
   
-**In this project We will use MapReduce with Python to do an amazing stuff.Here We will calculate total amount spent by customer based on the dataset given and also sort it by
-using two mapper and reducer function using MRJob library**.<br></br>
+**In this project We will use MapReduce with Python to do an amazing stuff.Here We will calculate total count of each words in Book.txt file. Here will use combiners in addition to mapper and reducer to do some reducing job in mapper node itself before giving the jobs to reducer. **.<br></br>
+
+Both Mapper and Reducer will have the same output and input. It just decreases the network traffic in our cluster.
 
 **Before jumping to the code lets understand MapReduce First**...<br></br>
 
